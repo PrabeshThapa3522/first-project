@@ -1,2 +1,2 @@
 # first-project
-firstrepo
+This is my first repository.
